@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448012964214",
+    "firebase_url": "https://crudapp-b3256-default-rtdb.firebaseio.com",
+    "project_id": "crudapp-b3256",
+    "storage_bucket": "crudapp-b3256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448012964214:android:fee68cd3114c38c054ea57",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.primereval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448012964214-9s8gvtfipkcs6v1l7e1o6iinn4i69qdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu.primereval",
+            "certificate_hash": "0d561cd1410da9f083e85d935f6d5037d3e88f57"
+          }
+        },
+        {
+          "client_id": "448012964214-99qqbpqt53p71e1m4v65qj05uj9690ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlRaJTZ-cjbr92ihkw6k6AgzEf8Uy-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448012964214-99qqbpqt53p71e1m4v65qj05uj9690ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
