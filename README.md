@@ -37,3 +37,12 @@ Esta apliacion esta hecha con la arquitectura MVVM (Model View ViewModel)
 
 ### Eliminar empresa
 <img src="https://i.postimg.cc/FHPmSmFL/5.png" width="400"/>
+
+## Firebase
+### Login
+<img src="https://i.postimg.cc/VsB3T7zK/auth.png" width="400"/>
+
+### Base de datos
+<img src="https://i.postimg.cc/1XH2qzvk/auth-1.png" width="400"/>
+
+
