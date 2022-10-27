@@ -12,8 +12,8 @@ Esta aplicación se encuentra en fase inicial:
     
 Esta apliacion esta hecha con la arquitectura MVVM (Model View ViewModel)
 
-    Dagger Hilt
-    Firebase y Firestore Auth
+    Dagger Hilt para la inyección de dependencias.
+    Firebase y Firestore Auth para el lado del backend con el manejo de base de datos y el auth login.
 
 ## Prototipos  
 <img src="https://i.postimg.cc/DyT2kBY8/p1.png" width="400"/>
